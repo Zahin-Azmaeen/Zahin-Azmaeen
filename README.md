@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahin Azmaeen</h1>
-<h3 align="center">A Enthusiastic Software Test Automation Engineer</h3>
+<h3 align="center">A Enthusiastic Software Engineer</h3>
 <h4 align="center"><a href="https://zahinazmaeen.vercel.app/" target="_blank">My Portfolio</a></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zahin-Azmaeen&label=Profile%20views&color=0e75b6&style=flat" alt="Zahin-Azmaeen" /> </p>
